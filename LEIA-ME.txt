@@ -1,0 +1,1 @@
+Extraia o ZIP e envie o index.html para a pasta publica da hospedagem. As imagens e o CSS estao incorporados no HTML; nao precisa enviar uma pasta assets. Os links de checkout foram preservados.
